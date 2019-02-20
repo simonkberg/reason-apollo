@@ -8,10 +8,6 @@
     "type": "git",
     "url": "https://github.com/apollographql/reason-apollo"
   },
-  "peerDependencies": {
-    "bs-platform": "^4.0.5",
-    "graphql_ppx": "^0.2.3"
-  },
   "keywords": [
     "Reason",
     "Apollo",
